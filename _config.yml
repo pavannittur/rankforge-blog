@@ -1,0 +1,23 @@
+title: RankForge AI Blog
+description: SEO, Content Marketing & AI Insights
+baseurl: "/rankforge-blog"
+url: "https://pavannittur.github.io"
+author: RankForge Team
+
+# Jekyll settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - about.md
+
+# Show excerpts on homepage
+show_excerpts: true
