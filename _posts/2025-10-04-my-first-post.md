@@ -9,7 +9,7 @@ categories: [SEO, AI]
 
 Unlocking Growth with an SEO Agency in India
 India’s Rise as a Trusted SEO Powerhouse
-![Image showing SEO workflow]([/blog/assets/images/image1.jpg](https://github.com/pavannittur/rankforge-blog/blob/main/assets/images/image1.jpg))
+![Image showing SEO workflow]([/blog/assets/main/images/image1.jpg]
 
 
 In the last decade, India has evolved into a go‑to hub for businesses worldwide that want reliable, affordable search‑engine optimisation. Several key ingredients make India such an attractive choice:
